@@ -12,13 +12,13 @@ include('includes/header.php'); ?>
 	<div class="contain">
 
 		<div>
-			<h2>Our Delicious Foods:</h2>
+			<h2>Available Viands:</h2>
 	
 		<ul>
 		 <?php foreach ($menuItems as $foods => $food){
 			?>
 
-			<li><a href="foods.php?food=<?php echo $foods; ?>">
+			<li><a href="foods.php?food=<?php echo $foods; ?>" id="under">
 				<?php echo $food["title"]; ?></a>  
 				<?php echo $food["price"]; ?><sup>php</sup></li>
 

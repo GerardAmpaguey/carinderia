@@ -26,7 +26,7 @@
 		),
 		array(
 			"name" => "Arizza Carbonel",
-			"bio" => "The main chef, top of her class in culinary arts as well as being smart enough to graduate from the University of the Philippines as her first degree. You can be assured that her recipies are of top quality!",
+			"bio" => "The main chef, top of her class in culinary arts as well as being smart enough to graduate from the University of the Philippines having 2 degree's. You can be assured that her recipies are of top quality!",
 			"img" => "zamae"
 		),
 

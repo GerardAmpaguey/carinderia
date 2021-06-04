@@ -407,9 +407,13 @@ input.button.next {
 	margin-right: 50px;
 }
 
+
+
 .contain ul li{
 	text-align: left;
 	text-decoration: none;
+	margin-top: 0;
+	padding-top: 0;
 }
 .contain p{
 	text-align: left;
@@ -417,11 +421,18 @@ input.button.next {
 
 .contain h2{
 	text-align: left;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-weight: 800;
 }
 
 .contain .contain2 {
 	display: flex;
 	flex-direction: column;
+}
+
+#under:hover{
+	text-decoration: underline;
 }
 
 
